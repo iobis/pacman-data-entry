@@ -12,17 +12,21 @@ A data submission website is currently under development, for the time being spr
 
 Enter time, location, and contact information for your sampling campaign.
 
-### Images
-
-Enter information about the images taken during or after the sampling campaign. Either include the images in the archive, or enter a URL pointing to an image hosted on the web. For images of settlement plates, please enter the plate field number and make sure it corresponds to the field number used in the Samples tab.
-
 ### Environmental data
 
 Enter environmental measurements such as temperature, salinity, or turbidity. If necessary, add columns for additional variables.
 
 ### Samples
 
-Add a record for each collected sample and assign a field number. In case of settlement plates, make sure to add a deployment identifier as well. This identifier should be the same for all plates from a single deployment.
+Add a record for each collected sample and assign an identifier. In case of settlement plates, make sure to add a deployment identifier as well. This identifier should be the same for all plates from a single deployment.
+
+### Vouchers
+
+Add a record for every specimen or DNA voucher.
+
+### Images
+
+Enter information about the images taken during or after the sampling campaign. Either include the images in the archive, or enter a URL pointing to an image hosted on the web. For images of settlement plates, please enter the plate field identifier and make sure it corresponds to the identifier used in the Samples tab.
 
 ### SRA data
 
