@@ -2,6 +2,8 @@
 
 All PacMAN data is managed under the [PacMAN project in PlutoF](https://app.plutof.ut.ee/study/view/98281).
 
+![plutof](images/plutof.png)
+
 ## Material samples and sampling events
 
 Material samples (water samples, plankton samples, and individual settlement plates), as well as the sampling events they belong to can be entered through the Material Sample form. On the [project page](https://app.plutof.ut.ee/study/view/98281), go to the Related Records panel, navigate to Material Samples, and click New.
