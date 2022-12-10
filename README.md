@@ -1,6 +1,6 @@
 # pacman-template
 
-:warning: The PacMAN template is being deprecated in favor of data entry into PlutoF. Continue [here](pluto.md) here for PlutoF related documentation.
+:warning: The PacMAN template is being deprecated in favor of data entry into PlutoF. Continue [here](plutof.md) here for PlutoF related documentation.
 
 This is the data submission template for the [Pacific islands Marine bioinvasions Alert Network](https://pacman.obis.org/) (PacMAN) project.
 
