@@ -59,3 +59,15 @@ In the General panel, enter the voucher identifier and any remarks. At USP the i
 ![edit specimen](images/edit_specimen.png)
 
 Save the specimen.
+
+## Environmental measurements
+
+To add environmental measurements to a sampling event, we will need to create three material samples, one for each depth.
+
+From the sampling event page, click New in the Material Samples panel and select the `PacMAN environmental measurements` form.
+
+![env form](images/env_form.png)
+
+Create a material sample for each sampling depth. Use the following sample naming pattern: `SUVA1_20220201_ENV1` and select Water as the sample type.
+
+![env samples](images/env_samples.png)
