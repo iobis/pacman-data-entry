@@ -71,3 +71,15 @@ From the sampling event page, click New in the Material Samples panel and select
 Create a material sample for each sampling depth. Use the following sample naming pattern: `SUVA1_20220201_ENV1` and select Water as the sample type.
 
 ![env samples](images/env_samples.png)
+
+## DNA extractions
+
+To document.
+
+## PCR
+
+To document.
+
+## Sequencing
+
+To document. After sequencing results have been added, an automated pipeline will take over.
