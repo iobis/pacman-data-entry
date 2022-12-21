@@ -83,3 +83,7 @@ To document.
 ## Sequencing
 
 To document. After sequencing results have been added, an automated pipeline will take over.
+
+## Pictures
+
+To document.
