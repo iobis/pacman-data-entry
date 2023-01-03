@@ -84,6 +84,8 @@ To document.
 
 To document. After sequencing results have been added, an automated pipeline will take over.
 
-## Pictures
+## Images
 
-To document.
+To add images to a material sample, go to the sample page and click Edit. Scroll down to the Associated Data panel and upload the images.
+
+![upload image](images/upload_image.png)
