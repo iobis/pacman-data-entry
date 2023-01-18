@@ -74,7 +74,11 @@ Create a material sample for each sampling depth. Use the following sample namin
 
 ## DNA extractions
 
-To document.
+To create a DNA extraction batch, go to LABORATORIES > Molecular Lab > DNA Extraction. Create a new DNA Extraction.
+
+Enter a title for the extraction, select IAS as the lab, select a staff member, and enter the dates for the extraction. In the `Material` section, select the appropriate sample identifiers under `Material sample`, and enter DNA concentrations if these have been determined. Enter any remarks if necessary. Scroll down and Save.
+
+![extraction](images/extraction.png)
 
 ## PCR
 
